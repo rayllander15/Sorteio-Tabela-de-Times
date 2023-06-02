@@ -1,4 +1,4 @@
-rom time import sleep
+from time import sleep
 import random
 from PySimpleGUI import PySimpleGUI as sg
 
